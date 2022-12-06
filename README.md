@@ -1,7 +1,7 @@
 # praktikum-6.1.1
 #PROGRAM INPUT NILAI MAHASISWA MENGGUNAKAN FUNGSI
 FLOWCHART
-Gambar 1
+![img.1](gambar/BOWO.png)
 
 CODE
 dataMahasiswa = {}
